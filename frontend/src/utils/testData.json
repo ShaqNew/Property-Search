@@ -1,0 +1,706 @@
+[
+    {
+        "id": 671,
+        "outcode": "E1",
+        "incode": "3BX",
+        "paon": "22",
+        "saon": "FLAT 26",
+        "street": "ADELINA GROVE",
+        "lrTransactions": [
+            {
+                "id": 671,
+                "lr_property_id": 671,
+                "date": "1995-01-13",
+                "price": 52995
+            },
+            {
+                "id": 21077281,
+                "lr_property_id": 671,
+                "date": "2015-11-16",
+                "price": 395000
+            }
+        ]
+    },
+    {
+        "id": 2365,
+        "outcode": "E1",
+        "incode": "8LX",
+        "paon": "ROYAL TOWER LODGE, 40",
+        "saon": "FLAT 30",
+        "street": "CARTWRIGHT STREET",
+        "lrTransactions": [
+            {
+                "id": 2365,
+                "lr_property_id": 2365,
+                "date": "1995-05-30",
+                "price": 111000
+            },
+            {
+                "id": 5955932,
+                "lr_property_id": 2365,
+                "date": "2000-10-04",
+                "price": 142000
+            },
+            {
+                "id": 11829881,
+                "lr_property_id": 2365,
+                "date": "2005-02-17",
+                "price": 200000
+            }
+        ]
+    },
+    {
+        "id": 9920,
+        "outcode": "E1",
+        "incode": "8RB",
+        "paon": "MARLYN LODGE",
+        "saon": "FLAT 510",
+        "street": "PORTSOKEN STREET",
+        "lrTransactions": [
+            {
+                "id": 9922,
+                "lr_property_id": 9920,
+                "date": "1995-09-29",
+                "price": 67000
+            },
+            {
+                "id": 12081018,
+                "lr_property_id": 9920,
+                "date": "2005-05-31",
+                "price": 240000
+            },
+            {
+                "id": 12521536,
+                "lr_property_id": 9920,
+                "date": "2006-06-05",
+                "price": 282000
+            }
+        ]
+    },
+    {
+        "id": 15913,
+        "outcode": "E1",
+        "incode": "1BW",
+        "paon": "10",
+        "saon": null,
+        "street": "ALBION YARD",
+        "lrTransactions": [
+            {
+                "id": 15919,
+                "lr_property_id": 15913,
+                "date": "1995-11-21",
+                "price": 86000
+            },
+            {
+                "id": 11451182,
+                "lr_property_id": 15913,
+                "date": "2005-06-14",
+                "price": 249950
+            }
+        ]
+    },
+    {
+        "id": 26184,
+        "outcode": "E1",
+        "incode": "5LP",
+        "paon": "64",
+        "saon": "FLAT 1",
+        "street": "PRINCELET STREET",
+        "lrTransactions": [
+            {
+                "id": 26203,
+                "lr_property_id": 26184,
+                "date": "1995-12-08",
+                "price": 64600
+            },
+            {
+                "id": 4139117,
+                "lr_property_id": 26184,
+                "date": "1999-08-17",
+                "price": 150000
+            },
+            {
+                "id": 11063141,
+                "lr_property_id": 26184,
+                "date": "2004-07-21",
+                "price": 249500
+            },
+            {
+                "id": 12167807,
+                "lr_property_id": 26184,
+                "date": "2005-11-11",
+                "price": 280000
+            }
+        ]
+    },
+    {
+        "id": 29845,
+        "outcode": "E1",
+        "incode": "4AT",
+        "paon": "42",
+        "saon": null,
+        "street": "CEPHAS AVENUE",
+        "lrTransactions": [
+            {
+                "id": 29869,
+                "lr_property_id": 29845,
+                "date": "1995-05-26",
+                "price": 155000
+            }
+        ]
+    },
+    {
+        "id": 29983,
+        "outcode": "E1",
+        "incode": "8LX",
+        "paon": "ROYAL TOWER LODGE, 40",
+        "saon": "FLAT 17",
+        "street": "CARTWRIGHT STREET",
+        "lrTransactions": [
+            {
+                "id": 30007,
+                "lr_property_id": 29983,
+                "date": "1995-04-28",
+                "price": 124000
+            },
+            {
+                "id": 3228698,
+                "lr_property_id": 29983,
+                "date": "1998-10-30",
+                "price": 140000
+            },
+            {
+                "id": 4938804,
+                "lr_property_id": 29983,
+                "date": "1999-05-28",
+                "price": 162000
+            },
+            {
+                "id": 9700352,
+                "lr_property_id": 29983,
+                "date": "2003-04-11",
+                "price": 250000
+            }
+        ]
+    },
+    {
+        "id": 32342,
+        "outcode": "E1",
+        "incode": "8LX",
+        "paon": "ROYAL TOWER LODGE, 40",
+        "saon": "FLAT 2",
+        "street": "CARTWRIGHT STREET",
+        "lrTransactions": [
+            {
+                "id": 32367,
+                "lr_property_id": 32342,
+                "date": "1995-05-26",
+                "price": 101995
+            },
+            {
+                "id": 23176456,
+                "lr_property_id": 32342,
+                "date": "2017-10-31",
+                "price": 460000
+            }
+        ]
+    },
+    {
+        "id": 35798,
+        "outcode": "E1",
+        "incode": "6JN",
+        "paon": "111",
+        "saon": null,
+        "street": "SHOREDITCH HIGH STREET",
+        "lrTransactions": [
+            {
+                "id": 35829,
+                "lr_property_id": 35798,
+                "date": "1995-09-13",
+                "price": 105000
+            }
+        ]
+    },
+    {
+        "id": 38695,
+        "outcode": "E1",
+        "incode": "8LX",
+        "paon": "ROYAL TOWER LODGE, 40",
+        "saon": "FLAT 34",
+        "street": "CARTWRIGHT STREET",
+        "lrTransactions": [
+            {
+                "id": 38733,
+                "lr_property_id": 38695,
+                "date": "1995-05-26",
+                "price": 84995
+            },
+            {
+                "id": 4292033,
+                "lr_property_id": 38695,
+                "date": "1999-12-09",
+                "price": 127500
+            },
+            {
+                "id": 10284801,
+                "lr_property_id": 38695,
+                "date": "2004-08-27",
+                "price": 205000
+            }
+        ]
+    },
+    {
+        "id": 47655,
+        "outcode": "E1",
+        "incode": "8LX",
+        "paon": "ROYAL TOWER LODGE, 40",
+        "saon": "FLAT 18",
+        "street": "CARTWRIGHT STREET",
+        "lrTransactions": [
+            {
+                "id": 47719,
+                "lr_property_id": 47655,
+                "date": "1995-04-28",
+                "price": 134000
+            },
+            {
+                "id": 3242638,
+                "lr_property_id": 47655,
+                "date": "1998-05-01",
+                "price": 150000
+            },
+            {
+                "id": 13412714,
+                "lr_property_id": 47655,
+                "date": "2006-07-21",
+                "price": 292500
+            },
+            {
+                "id": 15491715,
+                "lr_property_id": 47655,
+                "date": "2008-12-15",
+                "price": 325000
+            }
+        ]
+    },
+    {
+        "id": 49313,
+        "outcode": "E1",
+        "incode": "4XL",
+        "paon": "8",
+        "saon": null,
+        "street": "CLEVELAND GROVE",
+        "lrTransactions": [
+            {
+                "id": 49383,
+                "lr_property_id": 49313,
+                "date": "1995-04-28",
+                "price": 89995
+            },
+            {
+                "id": 1207862,
+                "lr_property_id": 49313,
+                "date": "1996-06-28",
+                "price": 90000
+            },
+            {
+                "id": 6256449,
+                "lr_property_id": 49313,
+                "date": "2001-09-04",
+                "price": 199950
+            }
+        ]
+    },
+    {
+        "id": 50668,
+        "outcode": "E1",
+        "incode": "6QE",
+        "paon": "11",
+        "saon": null,
+        "street": "FOURNIER STREET",
+        "lrTransactions": [
+            {
+                "id": 50742,
+                "lr_property_id": 50668,
+                "date": "1995-03-20",
+                "price": 142000
+            },
+            {
+                "id": 4711179,
+                "lr_property_id": 50668,
+                "date": "1999-08-31",
+                "price": 341500
+            },
+            {
+                "id": 15333167,
+                "lr_property_id": 50668,
+                "date": "2008-06-16",
+                "price": 740000
+            }
+        ]
+    },
+    {
+        "id": 53949,
+        "outcode": "E1",
+        "incode": "0QE",
+        "paon": "2",
+        "saon": null,
+        "street": "SENRAB STREET",
+        "lrTransactions": [
+            {
+                "id": 54029,
+                "lr_property_id": 53949,
+                "date": "1995-10-27",
+                "price": 75000
+            },
+            {
+                "id": 6477885,
+                "lr_property_id": 53949,
+                "date": "2001-07-09",
+                "price": 190000
+            },
+            {
+                "id": 21077234,
+                "lr_property_id": 53949,
+                "date": "2015-11-25",
+                "price": 850000
+            }
+        ]
+    },
+    {
+        "id": 53971,
+        "outcode": "E1",
+        "incode": "0BJ",
+        "paon": "BROCKMER HOUSE",
+        "saon": "FLAT 2",
+        "street": "CROWDER STREET",
+        "lrTransactions": [
+            {
+                "id": 54052,
+                "lr_property_id": 53971,
+                "date": "1995-10-25",
+                "price": 34000
+            },
+            {
+                "id": 6145967,
+                "lr_property_id": 53971,
+                "date": "2000-01-31",
+                "price": 52000
+            },
+            {
+                "id": 21603511,
+                "lr_property_id": 53971,
+                "date": "2016-03-16",
+                "price": 383500
+            }
+        ]
+    },
+    {
+        "id": 54767,
+        "outcode": "E1",
+        "incode": "4UZ",
+        "paon": "1",
+        "saon": null,
+        "street": "LAMPLIGHTER CLOSE",
+        "lrTransactions": [
+            {
+                "id": 54851,
+                "lr_property_id": 54767,
+                "date": "1995-08-02",
+                "price": 48000
+            },
+            {
+                "id": 587321,
+                "lr_property_id": 54767,
+                "date": "1995-09-29",
+                "price": 87000
+            },
+            {
+                "id": 18916476,
+                "lr_property_id": 54767,
+                "date": "2013-10-31",
+                "price": 475000
+            }
+        ]
+    },
+    {
+        "id": 55519,
+        "outcode": "E1",
+        "incode": "5PH",
+        "paon": "6",
+        "saon": null,
+        "street": "BARTHOLOMEW SQUARE",
+        "lrTransactions": [
+            {
+                "id": 55603,
+                "lr_property_id": 55519,
+                "date": "1995-03-07",
+                "price": 49000
+            },
+            {
+                "id": 9027537,
+                "lr_property_id": 55519,
+                "date": "2003-01-22",
+                "price": 160000
+            },
+            {
+                "id": 13914671,
+                "lr_property_id": 55519,
+                "date": "2007-03-07",
+                "price": 205000
+            },
+            {
+                "id": 17825209,
+                "lr_property_id": 55519,
+                "date": "2012-03-23",
+                "price": 247500
+            }
+        ]
+    },
+    {
+        "id": 55531,
+        "outcode": "E1",
+        "incode": "3AY",
+        "paon": "ADDIS HOUSE",
+        "saon": "FLAT 3",
+        "street": "LINDLEY STREET",
+        "lrTransactions": [
+            {
+                "id": 55615,
+                "lr_property_id": 55531,
+                "date": "1995-03-30",
+                "price": 38750
+            },
+            {
+                "id": 3708023,
+                "lr_property_id": 55531,
+                "date": "1998-10-27",
+                "price": 65000
+            }
+        ]
+    },
+    {
+        "id": 56025,
+        "outcode": "E1",
+        "incode": "1BW",
+        "paon": "23",
+        "saon": null,
+        "street": "ALBION YARD",
+        "lrTransactions": [
+            {
+                "id": 56109,
+                "lr_property_id": 56025,
+                "date": "1995-10-16",
+                "price": 61995
+            },
+            {
+                "id": 7504480,
+                "lr_property_id": 56025,
+                "date": "2002-02-22",
+                "price": 164000
+            }
+        ]
+    },
+    {
+        "id": 56363,
+        "outcode": "E1",
+        "incode": "2JD",
+        "paon": "SILVESTER HOUSE",
+        "saon": "FLAT 16",
+        "street": "VARDEN STREET",
+        "lrTransactions": [
+            {
+                "id": 56448,
+                "lr_property_id": 56363,
+                "date": "1995-12-08",
+                "price": 40000
+            }
+        ]
+    },
+    {
+        "id": 56621,
+        "outcode": "E1",
+        "incode": "8LX",
+        "paon": "ROYAL TOWER LODGE, 40",
+        "saon": "FLAT 12",
+        "street": "CARTWRIGHT STREET",
+        "lrTransactions": [
+            {
+                "id": 56706,
+                "lr_property_id": 56621,
+                "date": "1995-04-28",
+                "price": 114000
+            },
+            {
+                "id": 19149346,
+                "lr_property_id": 56621,
+                "date": "2014-12-16",
+                "price": 425000
+            }
+        ]
+    },
+    {
+        "id": 57140,
+        "outcode": "E1",
+        "incode": "5AS",
+        "paon": "JOHN PRITCHARD HOUSE",
+        "saon": "FLAT 4",
+        "street": "BUXTON STREET",
+        "lrTransactions": [
+            {
+                "id": 57227,
+                "lr_property_id": 57140,
+                "date": "1995-10-30",
+                "price": 44000
+            }
+        ]
+    },
+    {
+        "id": 57260,
+        "outcode": "E1",
+        "incode": "8LT",
+        "paon": "14",
+        "saon": null,
+        "street": "SWAN PASSAGE",
+        "lrTransactions": [
+            {
+                "id": 57348,
+                "lr_property_id": 57260,
+                "date": "1995-11-24",
+                "price": 60000
+            }
+        ]
+    },
+    {
+        "id": 57861,
+        "outcode": "E1",
+        "incode": "4BX",
+        "paon": "DEVONSHIRE COURT",
+        "saon": "FLAT 4",
+        "street": "BANCROFT ROAD",
+        "lrTransactions": [
+            {
+                "id": 57950,
+                "lr_property_id": 57861,
+                "date": "1995-12-15",
+                "price": 21000
+            },
+            {
+                "id": 5923363,
+                "lr_property_id": 57861,
+                "date": "2000-11-29",
+                "price": 38500
+            }
+        ]
+    },
+    {
+        "id": 58662,
+        "outcode": "E1",
+        "incode": "6EB",
+        "paon": "THE CLOISTERS, 145",
+        "saon": "FLAT 26",
+        "street": "COMMERCIAL STREET",
+        "lrTransactions": [
+            {
+                "id": 58757,
+                "lr_property_id": 58662,
+                "date": "1995-06-09",
+                "price": 43500
+            },
+            {
+                "id": 5203462,
+                "lr_property_id": 58662,
+                "date": "2000-09-29",
+                "price": 129950
+            },
+            {
+                "id": 6753016,
+                "lr_property_id": 58662,
+                "date": "2001-07-23",
+                "price": 132500
+            }
+        ]
+    },
+    {
+        "id": 59042,
+        "outcode": "E1",
+        "incode": "3HP",
+        "paon": "LOUISE DE MARILLAC HOUSE",
+        "saon": "FLAT 22",
+        "street": "SMITHY STREET",
+        "lrTransactions": [
+            {
+                "id": 59138,
+                "lr_property_id": 59042,
+                "date": "1995-09-15",
+                "price": 39100
+            }
+        ]
+    },
+    {
+        "id": 60237,
+        "outcode": "E1",
+        "incode": "4SL",
+        "paon": "GREENLAND HOUSE",
+        "saon": "FLAT 3",
+        "street": "ERNEST STREET",
+        "lrTransactions": [
+            {
+                "id": 60335,
+                "lr_property_id": 60237,
+                "date": "1995-06-23",
+                "price": 21000
+            },
+            {
+                "id": 2879021,
+                "lr_property_id": 60237,
+                "date": "1998-12-18",
+                "price": 30000
+            }
+        ]
+    },
+    {
+        "id": 60276,
+        "outcode": "E1",
+        "incode": "0HF",
+        "paon": "ROCHELLE COURT",
+        "saon": "FLAT 5",
+        "street": "COMMERCIAL ROAD",
+        "lrTransactions": [
+            {
+                "id": 60374,
+                "lr_property_id": 60276,
+                "date": "1995-07-12",
+                "price": 38978
+            },
+            {
+                "id": 11885255,
+                "lr_property_id": 60276,
+                "date": "2005-03-14",
+                "price": 150000
+            }
+        ]
+    },
+    {
+        "id": 60689,
+        "outcode": "E1",
+        "incode": "3JH",
+        "paon": "DUNSTAN HOUSES",
+        "saon": "35",
+        "street": "STEPNEY GREEN",
+        "lrTransactions": [
+            {
+                "id": 60789,
+                "lr_property_id": 60689,
+                "date": "1995-05-26",
+                "price": 42000
+            },
+            {
+                "id": 16769792,
+                "lr_property_id": 60689,
+                "date": "2010-06-18",
+                "price": 215000
+            }
+        ]
+    }
+]

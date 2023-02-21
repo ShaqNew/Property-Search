@@ -1,0 +1,16 @@
+.tableRow {
+    display: flex;
+    background-color: #289447;
+    padding: 10px;
+    &__details {
+        display: block;
+    }
+}
+
+.rowInfo{
+    width: 25%;
+}
+
+.fa-solid{
+    position:absolute;
+}
