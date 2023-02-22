@@ -49,6 +49,7 @@ const Pagination = ({ propertyData, setPageArray }) => {
   return (
     <div className="pageButtons" data-testid="page-buttons">
       <Button
+        aria-label="previous page"
         className="pageButtons__previous"
         variant="dark"
         data-testid="previous-page-button"
@@ -57,10 +58,11 @@ const Pagination = ({ propertyData, setPageArray }) => {
           changePage(-1);
         }}
       >
-        Previous page
+        <i className="fa-solid fa-arrow-left"></i>
       </Button>
       <select
         className="pageButtons__indicator"
+        aria-label="page dropdown selection"
         data-testid="page-number"
         value={selectedPage}
         onChange={selectPage}
@@ -72,6 +74,7 @@ const Pagination = ({ propertyData, setPageArray }) => {
         ))}
       </select>
       <Button
+        aria-label="next page"
         className="pageButtons__next"
         variant="dark"
         data-testid="next-page-button"
@@ -80,7 +83,7 @@ const Pagination = ({ propertyData, setPageArray }) => {
           changePage(1);
         }}
       >
-        Next page
+        <i className="fa-solid fa-arrow-right"></i>
       </Button>
     </div>
   );

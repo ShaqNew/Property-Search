@@ -47,7 +47,7 @@ export default App;
 // As I had limited time to work on this I feel I missed certain things
 // GIVEN MORE TIME I would have:
 // Taken more time to learn Bookshelf to write better and more concise routes and perhaps make changes to the data received
-// Added much more accessibility options and tags
+// Added many more accessibility options and tags
 // Written more and better tests(written some components to be more unit-test-friendly)
 // Written some components to be more robust and catch more edge cases
 // Appropriately typed the setState functions within the pagination and userSearch components
