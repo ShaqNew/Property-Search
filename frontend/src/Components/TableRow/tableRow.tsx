@@ -28,10 +28,10 @@ const TableRow = (props:{property:IProperty}) => {
                 {property.lrTransactions.length}
             </div>
         </div>
-        {/* NOTE: I think this could have been rewritten to either return the component or nothing 
+        {/* +NOTE:+ I think this could have been rewritten to either return the component or nothing 
             This would  have made it better for testing however I aimed to change the styling of this
-            component to allow it to animate/grow uder it's repeective row*/}
-        <TransactionDetails transactions={lrTransactions} display={showDetails} />
+            component to allow it to animate/grow uder it's repective row*/}
+            {showDetails ? <TransactionDetails transactions={lrTransactions} /> : null}
     </>
   );
 };

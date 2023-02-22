@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import fetchData from "../../utils/fetchData";
 import './userSearch.scss'
 
-const UserSearch = ({ setPropertyData }) => {
+const UserSearch = ({ setPropertyData, setIsLoading }) => {
   const [textInput, setTextinput] = useState("");
   const [searchType, setSearchType] = useState("lrPropertyOutcode");
   const [emptyData, setEmptyData] = useState(false);
@@ -15,11 +15,13 @@ const UserSearch = ({ setPropertyData }) => {
   };
   const handleKeyDown = async (event) => {
     if (event.key === "Enter") {
+      setIsLoading(true)
       const data = await fetchData(textInput.toUpperCase(), searchType);
       if (!data || !data.length) {
         setEmptyData(true);
       } else {
         setEmptyData(false);
+        setIsLoading(false);
         setPropertyData(data);
       }
     }

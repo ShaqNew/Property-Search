@@ -4,17 +4,29 @@ import UserSearch from "./Components/UserSearch/userSearchjs";
 import WelcomeMessage from "./Components/welcomeMessage";
 import "./App.scss";
 import { TPropertyList } from "./utils/dataTypes";
+import ClipLoader from "react-spinners/ClipLoader";
 
 function App() {
   const [propertyData, setPropertyData] = useState<TPropertyList>([]);
+  const [isLoading, setIsLoading] = useState<Boolean>(false);
 
   return (
     <div className="App" data-testid="app">
-        <UserSearch setPropertyData={setPropertyData}/>
-        {propertyData.length ? 
-          <Table data-testid="app-table" propertyData={propertyData} />
-         :
-          <WelcomeMessage data-testid="app-welcome-message" />
+        <UserSearch setPropertyData={setPropertyData} setIsLoading={setIsLoading}/>
+        {
+          !isLoading && !propertyData.length ? 
+            <WelcomeMessage data-testid="app-welcome-message" /> 
+            : 
+              isLoading ?
+              <div className="App__loading-spinner">
+                <ClipLoader
+                  size={50}
+                  aria-label="Loading Spinner"
+                  data-testid="loader"
+                />
+              </div>
+              :
+              <Table data-testid="app-table" propertyData={propertyData} />
         }
     </div>
   );
@@ -49,3 +61,10 @@ export default App;
 
 
 // Added icons
+// Changed Transaction Details usage
+// Added loading icon
+
+
+// Questoins:
+// Better to fetch for eachpage or load evertyhing and seperate it into each page
+// I had to install everything with npm --force, any idea why my package manager keeps complaining about not being able to resolve react-scripts?

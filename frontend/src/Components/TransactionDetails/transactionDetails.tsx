@@ -1,19 +1,12 @@
-import { useEffect, useState } from 'react';
 import './transactionDetails.scss';
 import Table from 'react-bootstrap/Table';
 import { TTransactionList } from '../../utils/dataTypes';
 
-const  TransactionDetails = (props:{transactions:TTransactionList, display:boolean}) => {
-    const { transactions, display } = props
-    const [show, setShow] =  useState("")
-    useEffect(()=>{
-        display ?
-        setShow("--show"):
-        setShow("")
-    },[display])
+const  TransactionDetails = (props:{transactions:TTransactionList}) => {
+    const { transactions } = props
 
     return  (
-        <Table data-testid="transaction-details-table" className={`transactionsTable${show}`}>
+        <Table data-testid="transaction-details-table" className={`transactionsTable`}>
             <thead className='transactionsTable__head'>
                 <tr>
                     <td data-testid="transaction-head-id">
