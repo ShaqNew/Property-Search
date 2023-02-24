@@ -27,7 +27,8 @@ router
 router
   .param("lrPropertyOutcode", async (outcode, ctx, next) => {
     ctx.lrProperty = await lrProperty
-      .query({ where: { outcode: outcode } })
+      // .query({ where: { outcode: outcode }, limit: 30 })
+      .query({ where: { outcode: outcode }})
       .fetchAll({withRelated: ["lrTransactions"]});
 
     if (!ctx.lrProperty) {

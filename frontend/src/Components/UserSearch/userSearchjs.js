@@ -19,6 +19,7 @@ const UserSearch = ({ setPropertyData, setIsLoading }) => {
       const data = await fetchData(textInput.toUpperCase(), searchType);
       if (!data || !data.length) {
         setEmptyData(true);
+        setIsLoading(false);
       } else {
         setEmptyData(false);
         setIsLoading(false);

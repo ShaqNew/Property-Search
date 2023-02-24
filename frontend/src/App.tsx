@@ -41,7 +41,7 @@ export default App;
 // getting npm to install properly: My Node and Python versions were too recent and I needed to find the correct versions to run them
 // As far as I could tell my dependancies all worked fine however some features/behaviours weren't how I expect them to be
 // Unsure if it is caused by version issues or something else, when something didn't work as expected and neither did attempted work-arounds, I moved on
-// I didn't previous  experience with Bookshelf so took some time to learn the functions and how to use it for this task
+// I didn't have previous experience with Bookshelf so took some time to learn the functions and how to use it for this task
 
 
 // As I had limited time to work on this I feel I missed certain things
@@ -54,17 +54,22 @@ export default App;
 // Explored frameworks more to find something to assist in the styling and functionality of some components and taken more time to get Bootstrap to work
 // Taken more time to consider my naming conventions and consistency
 // Added API error messages
-
-
+// Improved interactivity(pointer over interactive elems, hover css row changes)
 
 // I would love an opportunity to go over some of the missed opportunities in my app and hear what solutions you may have in mind
-
 
 // Added icons
 // Changed Transaction Details usage
 // Added loading icon
 
 
-// Questoins:
+// Been working under non-ideal conditions but made the best of it
+// All of the BEs I have dealt with have been non-relational so this was a bit more of a learning curve for me
+
+// Questions:
+// Why relational data
+// Are there better fetch options other than FetchAll()
+// How would you like the data to have been manipulated for improved efficiency
 // Better to fetch for eachpage or load evertyhing and seperate it into each page
 // I had to install everything with npm --force, any idea why my package manager keeps complaining about not being able to resolve react-scripts?
+// What is the ratio of developer-levels(Jr, Mid, Senior)
